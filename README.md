@@ -42,4 +42,4 @@ Open the `config.js` file in a text editor and fill in the required fields.
 Once loaded, the extension will be active and ready to enhance your Trendyol shopping experience.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT license](https://tldrlegal.com/license/mit-license).
