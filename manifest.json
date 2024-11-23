@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Trendyol Product Labelify",
+  "description": "A lightweight Chrome extension that enhances your Trendyol shopping experience by automatically detecting and labeling product details.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "js": ["instruction.js", "config.js", "content.js"],
+      "matches": [
+        "https://www.trendyol.com/*"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": ["activeTab"]
+}
