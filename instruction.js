@@ -16,6 +16,6 @@ Kurallar:
 {"labels": []<string>}
 
 Örnek JSON çıktı:
-{"labels": ["👏 KALİTELİ", "💻 HIZLI", "🎮 İYİ", "👍 GÜZEL", "💸 UYGUN", "🔥 HARİKA"]}
+{"labels": ["👏 KALİTELİ", "💻 HIZLI", "🎮 İYİ", "👍 GÜZEL", "💸 UYGUN", "📦 HIZLI KARGO"]}
 
 Not: Lütfen sadece etiketleri listele, başka açıklama ekleme.`;

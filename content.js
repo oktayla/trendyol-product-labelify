@@ -47,6 +47,7 @@ const fetchReviews = async({ category, productId }) => {
 const chatCompletion = async (message) => {
   let payload = {
     model: PROVIDER.defaultModel,
+    stream: false,
     messages: [
       {
         role: "system",
